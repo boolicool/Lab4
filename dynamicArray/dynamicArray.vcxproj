@@ -11,6 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\..\..\Programmation d%27application\Git\Lab4\dynamicArray\dynamicArray.hpp" />
     <ClInclude Include="dynamicArray.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

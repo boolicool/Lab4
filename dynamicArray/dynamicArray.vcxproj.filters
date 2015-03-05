@@ -18,5 +18,8 @@
     <ClInclude Include="dynamicArray.h">
       <Filter>Fichiers d%27en-tête</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\..\..\Programmation d%27application\Git\Lab4\dynamicArray\dynamicArray.hpp">
+      <Filter>Fichiers sources</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

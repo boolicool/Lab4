@@ -10,6 +10,10 @@
       <Platform>Win32</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\Programmation d%27application\Git\Lab4\fonctionsModeles\FonctionsModele.h" />
+    <ClInclude Include="..\..\..\..\Programmation d%27application\Git\Lab4\fonctionsModeles\FonctionsModele.hpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{C89509FB-F109-404B-8AD0-4EF05344230F}</ProjectGuid>
     <RootNamespace>fonctionsModeles</RootNamespace>
@@ -63,9 +67,6 @@
       <OptimizeReferences>true</OptimizeReferences>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClInclude Include="fonctionsModele.h" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

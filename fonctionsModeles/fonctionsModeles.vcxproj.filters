@@ -15,8 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="fonctionsModele.h">
+    <ClInclude Include="..\..\..\..\Programmation d%27application\Git\Lab4\fonctionsModeles\FonctionsModele.h">
       <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Programmation d%27application\Git\Lab4\fonctionsModeles\FonctionsModele.hpp">
+      <Filter>Fichiers sources</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
